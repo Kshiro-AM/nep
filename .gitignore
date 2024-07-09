@@ -1,0 +1,17 @@
+*.DS*
+*.idea*
+*__pycache__*
+*ipynb_checkpoints*
+
+*.npy
+*.pt
+*.pkl
+*.json
+*.out
+
+data
+dataset
+ckpts
+bert-base-uncased
+
+preprocess/playground.ipynb
